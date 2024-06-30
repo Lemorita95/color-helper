@@ -1,0 +1,35 @@
+body {
+    background-color: #fff;
+    color: #212529;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+    text-align: left;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    width: 90%;
+}
+
+.preview-area {
+    width: 50%;
+    height: 5rem;
+    background:#000fff;
+    z-index: 0;
+    margin: auto auto;
+    border: 0.25px solid black;
+}
+
+.color-picker {
+    margin: auto auto;
+}
+
+.radio-selection {
+    margin: 0 auto !important;
+}
